@@ -1,0 +1,5 @@
+city,state,climate_koppen,latitude,longitude,elevation_m,GHI_kWh_m2_yr,DHI_kWh_m2_yr,T_avg_C,T_min_C,T_max_C,wind_avg_ms,wind_max_ms,RH_avg_pct,records
+Monterrey,Nuevo León,BSh,25.6866,-100.3161,540,1878.0,807.0,25.1,-0.1,42.0,4.5,13.4,54.6,8737
+Campeche,Campeche,Aw,19.8301,-90.5349,10,1887.0,883.0,26.6,11.0,39.1,3.4,12.7,74.9,8737
+Mexico City,CDMX,Cwb,19.4326,-99.1332,2240,1840.0,793.0,16.4,0.2,30.4,2.6,9.8,63.1,8737
+San Ignacio,Baja California Sur,BWh,27.2833,-112.9,80,2155.0,636.0,21.6,1.5,36.8,2.2,8.6,50.9,8737

@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "DT-HRES-S: Student-Led Open-Source Digital Twin for Hybrid Renewable Energy Systems in Indigenous Communities"
+abstract: >-
+  An open-source Python toolkit and Google Colab notebooks that replace
+  commercial software like HOMER and PVsyst with an AI-driven, physics-anchored
+  digital twin for sizing PV-wind-battery systems in Mexican indigenous
+  communities. Built by undergraduate and graduate students under the EPICS in
+  IEEE 2025-2026 program.
+authors:
+  - family-names: Tariq
+    given-names: Rasikh
+    affiliation: "Tecnológico de Monterrey — Institute for the Future of Education"
+    email: rasikhtariq@tec.mx
+  - family-names: "DT-HRES-S Student Team"
+    affiliation: "Tecnológico de Monterrey, Universidad Autónoma de Yucatán"
+version: 0.2.0
+date-released: 2026-05-20
+license: CC-BY-NC-SA-4.0
+repository-code: "https://github.com/Aaron-Cuevas/DT-HRES-S"
+keywords:
+  - digital twin
+  - hybrid renewable energy
+  - photovoltaic
+  - machine learning
+  - indigenous communities
+  - Mexico
+  - open source
+  - energy democratization
+  - EPICS in IEEE
+  - 4D methodology
+  - digital shadow

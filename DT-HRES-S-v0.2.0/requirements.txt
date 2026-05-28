@@ -1,0 +1,21 @@
+# DT-HRES-S core dependencies
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+openpyxl>=3.1
+matplotlib>=3.7
+seaborn>=0.12
+ipywidgets>=8.0
+jupyter>=1.0
+joblib>=1.3
+requests>=2.31         # NASA POWER API (src/sensors.py)
+
+# Optional but recommended
+plotly>=5.15           # interactive plots in Colab
+tqdm>=4.65             # progress bars
+
+# Testing & quality (dev)
+pytest>=7.4
+pytest-cov>=4.1
+ruff>=0.1
